@@ -20,4 +20,20 @@ linkedin_username: shary-dc
 
 # About Section
 about_title: About Me
-about_profile_image: images
+about_profile_image: images/me.jfif
+about_content: | 
+  Experienced Data Engineer with expertise in developing ETL pipelines, modernizing BI applications, and creating reports and dashboards for data-driven decision-making. Skilled in SQL, Python, and Power BI, with a track record of enabling actionable insights through advanced data analytics and visualization.
+
+# Footer
+footer_show_references: true
+references_title: Available upon request
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
