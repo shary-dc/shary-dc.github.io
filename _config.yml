@@ -20,12 +20,12 @@ linkedin_username: shary-dc
 
 # About Section
 about_title: About Me
-about_profile_image: images/me.jfif
+about_profile_image: images/me2.jpeg
 about_content: | 
   Full-stack developer and data engineering specialist with extensive experience building solutions across web, API, and data environments. My toolkit includes .NET/C#, Angular, SQL, Python, and the Microsoft BI stack (SSRS, SSIS, SSAS), enabling me to create seamless data pipelines and high-impact reports. I’ve led a team of 25+ developers, I have modernized legacy projects, architected several data, web and console applications, and designed CI/CD pipelines that elevate code quality and deployment speed. Recently, I’ve learned PowerBI, adding new layers of data visualization and automation to my skillset.
 
-# Experience Section
 content:
+  # Experience Section
   - title: Experience
     layout: list
     content:
@@ -34,8 +34,6 @@ content:
         link: https://www.ca-cib.com
         sub_title: Technical Lead | Data Engineer + Full-Stack Software Engineer
         caption: April 2015 – September 2024
-        quote: >
-          Delivering innovative solutions and modernized BI applications in the banking domain.
         description: |
           **Technical Lead (4 years)**  
           - Managed and mentored a team of 20+ developers, scaling from 5.  
@@ -51,11 +49,10 @@ content:
           - Delivered high-performing SSRS reports for business decision-making.  
 
       - layout: left
-        title: Towers Watson Global Business Services
+        title: Willis Towers Watson
+        link: https://www.wtwco.com/
         caption: October 2013 – April 2015
-        sub_title: BI Developer
-        quote: >
-          Creating impactful dashboards for informed business decisions.
+        sub_title: Business Intelligence Developer
         description: |
           - Designed and developed data-driven dashboards.  
           - Created visually appealing reports tailored to user needs.  
@@ -64,8 +61,6 @@ content:
         title: Ducen Infotek
         caption: June 2012 – September 2013
         sub_title: BI Developer
-        quote: >
-          Centralizing and visualizing critical business data.
         description: |
           - Implemented ETL pipelines to centralize sales and inventory data.  
           - Designed impactful client-facing reports.  
@@ -74,14 +69,51 @@ content:
         title: PCM
         caption: November 2011 – April 2012
         sub_title: Java Developer
-        quote: >
-          Enhancing e-commerce functionalities for seamless user experience.
         description: |
-          - Enhanced search functionality using Java and Apache Solr. 
+          - Enhanced search functionality using Java and Apache Solr.
+
+  # Education Section
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Technological Institute of the Philippines
+        caption: April 2013
+        sub_title: Bachelor of Science in Information Technology
+  
+  # Certification Section
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Python Programming MOOC
+        caption: 2024
+        sub_title: University of Helsinki
+
+      - layout: left
+        title: Data Analyst Career Path
+        sub_title: Microsoft Learn
+
+      - layout: left
+        title: Power BI Data Analyst Associate
+        sub_title: Microsoft (in progress)
+
+      - layout: left
+        title: SQL (Advanced) Certificate
+        sub_title: HackerRank
+  
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my interests in data and software engineering some of my other interests and hobbies are:
+      - Gaming (PS5, Switch)
+      - Boardgames (my favorite is Avalon !)
+      - Hiking
+      - Arts (drawing and watercolor painting)
 
 # Footer
 footer_show_references: true
-references_title: Available upon request
+references_title: References availble on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
