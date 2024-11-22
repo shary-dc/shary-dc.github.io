@@ -24,8 +24,8 @@ about_profile_image: images/me.jfif
 about_content: | 
   Full-stack developer and data engineering specialist with extensive experience building solutions across web, API, and data environments. My toolkit includes .NET/C#, Angular, SQL, Python, and the Microsoft BI stack (SSRS, SSIS, SSAS), enabling me to create seamless data pipelines and high-impact reports. I’ve led a team of 25+ developers, I have modernized legacy projects, architected several data, web and console applications, and designed CI/CD pipelines that elevate code quality and deployment speed. Recently, I’ve learned PowerBI, adding new layers of data visualization and automation to my skillset.
 
-# content:
 # Experience Section
+content:
   - title: Experience
     layout: list
     content:
@@ -78,7 +78,7 @@ about_content: |
           Enhancing e-commerce functionalities for seamless user experience.
         description: |
           - Enhanced search functionality using Java and Apache Solr. 
-          
+
 # Footer
 footer_show_references: true
 references_title: Available upon request
