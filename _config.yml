@@ -27,15 +27,13 @@ about_content: |
 content:
   # Skills Section
   - title: Skills
-    layout: list
-    content:
-      - layout: text
-        content: |
-          - **Languages**: C#, JavaScript, TypeScript, PowerShell, Python
-          - **Frameworks**:	.NET (all flavors), Entity Framework, Angular, MSBI Stack (SSIS, SSRS, SSAS), PowerBI
-          - **Database**:	SQL Server, PostgreSQL, Oracle
-          - **Tools**: Git, GitLab, GitHub, Azure DevOps, Nexus, Artifactory, ArgoCD, HashiCorp Vault, xUnit, SonarQube, CheckMarx, Docker, Kubernetes, Jira, Confluence
-          - **Soft Skills**: Tech Leadership and Mentoring (25+ developers), Agile Methodologies, Effective Communication
+    layout: text
+    content: |
+      - **Languages**: C#, JavaScript, TypeScript, PowerShell, Python
+      - **Frameworks**:	.NET (all flavors), Entity Framework, Angular, MSBI Stack (SSIS, SSRS, SSAS), PowerBI
+      - **Database**:	SQL Server, PostgreSQL, Oracle
+      - **Tools**: Git, GitLab, GitHub, Azure DevOps, Nexus, Artifactory, ArgoCD, HashiCorp Vault, xUnit, SonarQube, CheckMarx, Docker, Kubernetes, Jira, Confluence
+      - **Soft Skills**: Tech Leadership and Mentoring (25+ developers), Agile Methodologies, Effective Communication
 
   # Experience Section
   - title: Experience
@@ -89,7 +87,7 @@ content:
         caption: April 2013
         sub_title: Bachelor of Science in Information Technology
       - layout: left
-        title: University of Helsinki (Open Unibersity)
+        title: University of Helsinki (Open University)
         caption: November 2024
         sub_title: Python Programming 2024
   
