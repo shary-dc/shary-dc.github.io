@@ -49,7 +49,7 @@ content:
           - Expanded a team from 5 to over 20 developers with diverse expertise in .NET, Angular, MSBI, and Java Spark by actively leading recruitment, onboarding, and mentorship programs.
           - Led the architectural redesign of a medium-scale credit review workflow application (100+ users), resolving performance and security issues.
           - Designed and developed a wide range of applications, including console, web, and API solutions, while creating and implementing shared packages to promote code reusability and consistency across projects.
-          Led the containerization of legacy applications by refactoring them into cloud-ready solutions and transitioning deployments from on-premise servers to an on-premise cloud infrastructure, enhancing scalability and operational efficiency.
+          - Led the containerization of legacy applications by refactoring them into cloud-ready solutions and transitioning deployments from on-premise servers to an on-premise cloud infrastructure, enhancing scalability and operational efficiency.
           **Full-Stack Software Engineer + Data Engineer (5 years)**  
           - Improved development time by implementing DevOps processes: migrated application documentations from Sharepoint to Confluence, configured CI/CD pipelines using GitLab/Azure DevOps, automated good coding standards using CheckMarx and SonarQube.
           - Actively worked in Agile software development environments with international teams, leveraging the SCRUM framework.
