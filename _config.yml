@@ -19,8 +19,14 @@ github_username: shary-dc
 
 additional_links:
 - title: LeetCode
-  icon: fa-solid fa-code
+  icon: fac fa-code
   url: https://leetcode.com/u/shary-dc/
+- title: HackerRank
+  icon: fab fa-hackerrank
+  url: https://www.hackerrank.com/profile/shary_delacruz
+- title: GoodReads
+  icon: fab fa-goodreads
+  url: https://www.goodreads.com/user/show/5592832-shary
 
 # About Section
 about_title: About Me
