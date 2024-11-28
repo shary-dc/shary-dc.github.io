@@ -16,11 +16,10 @@ darkmode: never
 # Social links
 github_username: shary-dc
 linkedin_username: shary-dc
-leetcode_username: shary-dc
 
 additional_links:
 - title: LeetCode
-  icon: fab fa-solid fa-code
+  icon: fa-code
   url: https://leetcode.com/u/shary-dc/
 
 # About Section
