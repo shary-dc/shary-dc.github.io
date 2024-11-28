@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Shary Dela Cruz
-title: Full Stack Software Engineer | Data Engineer
+title: Software Engineer
 email: shary.delacruz@outlook.com
 
 # Dark Mode (true/false/never)
@@ -21,7 +21,7 @@ additional_links:
   icon: fab fa-github-alt
   url: https://github.com/shary-dc/
 - title: LeetCode
-  icon: fa-code
+  icon: fas fa-code
   url: https://leetcode.com/u/shary-dc/
 - title: HackerRank
   icon: fab fa-hackerrank
