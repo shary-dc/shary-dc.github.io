@@ -15,15 +15,20 @@ darkmode: never
 
 # Social links
 linkedin_username: shary-dc
-github_username: shary-dc
 
 additional_links:
+- title: GitHub
+  icon: fab fa-github-alt
+  url: https://github.com/shary-dc/
 - title: LeetCode
-  icon: fac fa-code
+  icon: fa-code
   url: https://leetcode.com/u/shary-dc/
 - title: HackerRank
   icon: fab fa-hackerrank
   url: https://www.hackerrank.com/profile/shary_delacruz
+- title: FreeCodeCamp
+  icon: fab fa-free-code-camp
+  url: https://www.freecodecamp.org/shary-dc
 - title: GoodReads
   icon: fab fa-goodreads
   url: https://www.goodreads.com/user/show/5592832-shary
